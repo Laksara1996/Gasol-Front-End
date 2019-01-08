@@ -32,7 +32,7 @@ export const navigation: FuseNavigation[] = [
         type     : 'item',
         icon     : 'today',
         url      : '/apps/calendar'
-    }
+    },
     
     {
         id   : 'coming-soon',
