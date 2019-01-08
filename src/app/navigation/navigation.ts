@@ -5,6 +5,7 @@ export const navigation: FuseNavigation[] = [
         id   : 'analytics',
         title: 'Analytics',
         type : 'item',
+        icon : 'timeline',
         url  : '/apps/dashboards/analytics'
     },
 
@@ -12,6 +13,7 @@ export const navigation: FuseNavigation[] = [
         id   : 'project',
         title: 'Project',
         type : 'item',
+        icon : 'send',
         url  : '/apps/dashboards/project'
     },
 
@@ -19,6 +21,7 @@ export const navigation: FuseNavigation[] = [
         id   : 'form',
         title: 'Form',
         type : 'item',
+        icon : 'description',
         url  : '/apps/dashboards/form'
     },
 
